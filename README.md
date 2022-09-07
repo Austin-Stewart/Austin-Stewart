@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Austin-Stewart
 - 👀 I’m interested in Python, Databases, and Java. 
-- 🌱 I’m currently learning working on a customer management system in Java.
+- 🌱 I’m currently working on a customer management system in Java.
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ...Email me @ Simicsoftware@gmail.com
 
