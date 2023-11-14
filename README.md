@@ -28,7 +28,3 @@ Explore my projects focusing on:
 ## Contributions
 
 Contributions are always welcome! Feel free to submit bug reports, feature requests, or pull requests to improve the projects.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
