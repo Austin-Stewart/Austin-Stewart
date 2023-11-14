@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Austin-Stewart
-- 👀 I’m interested in Python, Databases, and Java. 
-- 🌱 I’m currently working on a customer management system in Java.
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ...Email me @ Simicsoftware@gmail.com
+# Hi, I'm Austin Stewart! 👋
 
-<!---
-Austin-Stewart/Austin-Stewart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a software developer passionate about Python, Databases, SQL, PowerBI, and Excel.
+- 🌱 Currently, I'm working on a customer management system in Java.
+- 💞️ I’m interested in collaborating on projects related to data analysis.
+
+## Data Analysis Toolbox
+
+Explore my projects focusing on:
+
+- **Python:** For versatile and efficient scripting.
+- **Databases & SQL:** Structuring and managing data effectively.
+- **PowerBI:** Creating interactive and insightful visualizations.
+- **Excel:** Leveraging spreadsheets for data analysis.
+
+## Connect with Me
+
+- 📫 Email me at Simicsoftware@gmail.com
+
+## How to Connect
+
+1. **Clone the Repository:**
+   - Check out my projects for insights into Python, databases, and data analysis tools.
+
+2. **Collaboration:**
+   - Interested in data analysis? Let's collaborate and enhance these projects!
+
+## Contributions
+
+Contributions are always welcome! Feel free to submit bug reports, feature requests, or pull requests to improve the projects.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
