@@ -1,4 +1,4 @@
-# Hi, I'm Austin Stewart! 👋
+# Hi, I'm Austin! 👋
 
 - 👀 I’m a software developer passionate about Python, Databases, SQL, PowerBI, and Excel.
 - 🌱 Currently, I'm working on a customer management system in Java.
