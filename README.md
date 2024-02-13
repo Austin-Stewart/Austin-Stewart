@@ -1,7 +1,7 @@
 # Hi, I'm Austin! 👋
 
 - 👀 I’m a software developer passionate about Python, Databases, SQL, PowerBI, and Excel.
-- 🌱 Currently, I'm working on a customer management system in Java.
+- 🌱 Currently, I'm working in Healthcare and building data analysis projects for fitness. 
 - 💞️ I’m interested in collaborating on projects related to data analysis.
 
 ## Data Analysis Toolbox
